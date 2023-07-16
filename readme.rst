@@ -32,7 +32,7 @@ Cite this repository:
 Publications
 ------------
 
-`D. Kowalczyk, P. Li, A. Abbas, J. Eichhorn, P. Buday, M. Heiland, A. Pannwitz, F. Schacher, W. Weigand, C. Streb and D. Ziegenbalg, Making Photocatalysis Comparable Using a Modular and Characterized Open-Source Photoreactor, ChemPhotoChem, 2022, 6, e202200044, DOI: 10.1002/cptc.202200044 <(https://doi.org/jfg6)>`_
+`D. Kowalczyk, P. Li, A. Abbas, J. Eichhorn, P. Buday, M. Heiland, A. Pannwitz, F. Schacher, W. Weigand, C. Streb and D. Ziegenbalg, Making Photocatalysis Comparable Using a Modular and Characterized Open-Source Photoreactor, ChemPhotoChem, 2022, 6, e202200044, DOI: 10.1002/cptc.202200044. <https://doi.org/jfg6>`_
 
 `S. Naskar, D. Kowalczyk, S. Mal, S. Das, D. Mandal, P. Kumar and D. Ziegenbalg, Making photochemistry scalable – an operationally simple falling film looping photoreactor, Reaction Chemistry & Engineering, DOI: 10.1039/d3re00107e. <https://doi.org/kjpj>`_
 
